@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ruleta con Probabilidades</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app" role="application" aria-label="Ruleta aleatoria con pesos">
+    <div class="stage">
+      <div class="pointer" aria-hidden="true"></div>
+      <!-- SVG ruleta -->
+      <svg id="wheel" class="wheel" viewBox="-50 -50 100 100" aria-hidden="true"></svg>
+    </div>
+
+    <div class="controls">
+      <button id="spinBtn">Girar</button>
+      <button id="resetBtn" title="Volver a 0°">Reset</button>
+    </div>
+
+    <div id="result" class="result" aria-live="polite"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
