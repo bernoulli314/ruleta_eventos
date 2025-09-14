@@ -1,7 +1,7 @@
 /* ========= CONFIGURACIÓN ========= */
 const SEGMENTS = [
   { text: "TIRAR LA CUERDA",   weight: 0.1,  color: "#0008ffff" },
-  { text: "GYMKANA",           weight: 0.1,  color: "#ff0000ff" },
+  { text: "YINKANA",           weight: 0.1,  color: "#ff0000ff" },
   { text: "EL EMBOQUE",        weight: 0.1,  color: "#4400ffff" },
   { text: "CONCURSO DE PAYAS", weight: 0.1,  color: "#ff0000ff" },
   { text: "CARRERA EN SACOS",  weight: 0.1,  color: "#2f00ffff" },
