@@ -82,7 +82,7 @@ button[disabled]{ opacity:.5; cursor:not-allowed }
   color:#fff;
   text-shadow: 0 2px 20px rgba(0, 0, 0, 0.45);
   transform: translate(0px, -35px);
-  -webkit-text-stroke: 3px rgb(32, 0, 159);
+  -webkit-text-stroke: 3px #719d78;
 }
 
 .slice-label{
