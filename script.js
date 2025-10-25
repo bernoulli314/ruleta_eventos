@@ -1,11 +1,9 @@
 /* ========= CONFIGURACIÓN ========= */
 const SEGMENTS = [
-  { text: "TIRAR LA CUERDA",   weight: 0.1,  color: "#719d78" },
-  { text: "YINKANA",           weight: 0.1,  color: "#f6c2c5" },
-  { text: "EL EMBOQUE",        weight: 0.1,  color: "#719d78" },
-  { text: "CONCURSO DE PAYAS", weight: 0.1,  color: "#f6c2c5" },
-  { text: "CARRERA EN SACOS",  weight: 0.1,  color: "#719d78" },
-  { text: "DIBUJOS", weight: 0.1, color: "#f6c2c5" },
+  { text: "DIBUJOS RANDOM",   weight: 0.1,  color: "#719d78" },
+  { text: "ADIVINA EL PERSONAJE",           weight: 0.1,  color: "#f6c2c5" },
+  { text: "ADIVINA EL POKEMON",        weight: 0.1,  color: "#719d78" },
+  { text: "ADIVINA EL ANIME CON EMOJIS", weight: 0.1,  color: "#f6c2c5" },
 ];
 
 const TAU = Math.PI * 2;
