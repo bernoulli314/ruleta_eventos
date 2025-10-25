@@ -5,7 +5,7 @@ const SEGMENTS = [
   { text: "EL EMBOQUE",        weight: 0.1,  color: "#719d78" },
   { text: "CONCURSO DE PAYAS", weight: 0.1,  color: "#f6c2c5" },
   { text: "CARRERA EN SACOS",  weight: 0.1,  color: "#719d78" },
-  { text: "DIBUJOS CHILENIZADOS", weight: 0.1, color: "#f6c2c5" },
+  { text: "DIBUJOS", weight: 0.1, color: "#f6c2c5" },
 ];
 
 const TAU = Math.PI * 2;
