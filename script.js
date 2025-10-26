@@ -5,6 +5,7 @@ const SEGMENTS = [
   { text: "ADIVINA EL POKEMON",        weight: 0.1,  color: "#719d78" },
   { text: "ANIME CON EMOJIS", weight: 0.1,  color: "#f6c2c5" },
   { text: "CANCIÓN x4", weight: 0.1,  color: "#719d78" },
+  { text: "ANIME CON EMOJIS", weight: 0.1,  color: "#f6c2c5" },
 ];
 
 const TAU = Math.PI * 2;
